@@ -1,4 +1,4 @@
-An alternative Technology Radar inspired by the [ThoughtWorks Tech Radar](http://www.thoughtworks.com/radar/).
+An alternative _Technology Radar_ inspired by the [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/).
 
 This Technology Radar has pretty simple functionality, uses json data source and renders SVG within html.
 
